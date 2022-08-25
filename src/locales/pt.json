@@ -1,5 +1,7 @@
 {
   "translation": {
-    "Welcome to React": "Bem vindo ao React e ao i18next"
+    "Welcome to React": "Bem vindo ao React e ao i18next",
+    "English": "Inglês",
+    "Portuguese": "Português"
   }
 }
