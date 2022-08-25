@@ -1,7 +1,3 @@
-/**
- * @format
- */
-
 import 'react-native';
 import {routes} from './routes';
 
