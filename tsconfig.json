@@ -20,7 +20,8 @@
       "@models/*": ["models/*/index", "models/*"],
       "@routes/*": ["routes/*/index", "routes/*"],
       "@screens/*": ["screens/*/index", "screens/*"],
-      "@services/*": ["services/*/index", "services/*"]
+      "@services/*": ["services/*/index", "services/*"],
+      "@themes/*": ["themes/*/index", "themes/*"]
     },
   },
   
